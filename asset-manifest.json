@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/AstriaMvp/static/css/main.620def98.css",
+    "main.js": "/AstriaMvp/static/js/main.2041f9e6.js",
+    "static/js/787.8f296d8a.chunk.js": "/AstriaMvp/static/js/787.8f296d8a.chunk.js",
+    "static/media/astria2.jpg": "/AstriaMvp/static/media/astria2.02c4018f3f01452f83ba.jpg",
+    "index.html": "/AstriaMvp/index.html",
+    "main.620def98.css.map": "/AstriaMvp/static/css/main.620def98.css.map",
+    "main.2041f9e6.js.map": "/AstriaMvp/static/js/main.2041f9e6.js.map",
+    "787.8f296d8a.chunk.js.map": "/AstriaMvp/static/js/787.8f296d8a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.620def98.css",
+    "static/js/main.2041f9e6.js"
+  ]
+}
